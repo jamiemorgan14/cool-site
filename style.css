@@ -1,0 +1,44 @@
+.image{
+  float: right;
+  font-size: .2em;
+  width: 200px;
+  text-align: center;
+  padding-top: 99px;
+  padding-right: 50px;
+}
+
+
+
+header{
+  font-size: 2em;
+  background-color: blue;
+  height: 80px;
+  text-align: center;
+  border-bottom: 3px solid black;
+  color: seashell;
+}
+
+hr {
+  margin-top: 30px;
+  height: 10px;
+  background-color: aquamarine;
+}
+
+main {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  font-size: 1.4em;
+}
+
+footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: blue;
+  height: 80px;
+}
+
+
+
